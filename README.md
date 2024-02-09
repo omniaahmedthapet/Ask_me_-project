@@ -1,6 +1,6 @@
 #Ask_me_project :
 - this is my first OOP project with c++
-#Project Features :-
+#Project Features :
 - Sign up 
 - Sign in
 - ask a question
